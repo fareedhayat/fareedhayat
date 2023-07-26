@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fareed Hayat</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-🔭 I’m a Senior Year Computer Science Student 
+<img align="right" alt="Coding" width="400" border-radius="10px" src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80">
+  
+  🔭 I’m a Senior Year Computer Science Student
+  
 - 📫 How to reach me **fareedhayat@gmail.com**
 
 
